@@ -50,7 +50,6 @@ The project follows an **Object-Oriented Programming (OOP)** approach with modul
 
 ### 👤 Author
 **Youssef Alkamashany**
-* 🎓 **Computer Science Student** | Modern Academy.
 * 🚀 **Aspiring MLOps & AI Data Engineer**.
 * 💼 **Team Leader** | Digital Egypt Pioneers Initiative (DEPI).
 
